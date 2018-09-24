@@ -37,7 +37,7 @@ class GFG
     public static void main (String[] args) 
     { 
         int n;
-      Scanner sc=new Scanneer(System.in);
+      Scanner sc=new Scanner(System.in);
       n=sc.nextInt();
         primeFactors(n); 
     } 
