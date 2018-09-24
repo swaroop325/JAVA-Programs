@@ -1,6 +1,6 @@
-
 // Program to print all prime factors 
 import java.io.*; 
+import java.util.*;
 import java.lang.Math; 
   
 class GFG 
